@@ -1,0 +1,8 @@
+{
+  "name": "co2",
+  "app_id": "1a4ae948",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ]
+}

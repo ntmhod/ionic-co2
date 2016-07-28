@@ -1,0 +1,108 @@
+.bar.bar-light .title {
+	font-weight: 400;
+}
+.bar .title {
+	min-width: 50% !important;
+}
+.title-right {
+	color: grey !important;
+	font-size: .8em !important;
+}
+.title-left {
+	color: #002e51 !important;
+	font-size: 14px !important;
+}
+.wrapper {
+	margin: 0 auto;
+	width: 100%;
+	max-width: 400px;
+}
+.result {
+	height: 160px;
+	border-radius: 4px !important;
+}
+.item {
+	border: none !important;
+}
+.row, .col {
+	text-align: center;
+}
+.row {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+.row.last {
+	padding-bottom: 0 !important;
+}
+.col {
+	margin: 0 !important;
+	border-radius: 0 !important;
+	border: 1px solid #f5f8fa;
+	font-weight: bold;
+	font-size: 1em;
+}
+.row .button {
+	border: 1px solid #f5f8fa !important;
+}
+.col.button.button-stable {
+	color: #002e51 !important;
+}
+.item #refrigerant {
+	font-size: 1em;
+	line-height: 1em;
+	font-weight: bold;
+}
+.item #charge {
+	font-size: 1em;
+	line-height: 1em;
+	font-weight: bold;
+}
+.item #totalNumber {
+	font-size: 4em;
+	line-height: 1em;
+	font-weight: bold;
+}
+.item #message {
+	font-size: .75em;
+	line-height: 1.2em;
+}
+/* SELECT MODAL */
+.bar.bar-stable .title {
+	color: #002e51 !important;
+}
+.list h2 {
+	color: #002e52 !important;
+}
+/* FOOTER */
+.footer {
+	padding-top: 20px;
+	text-align: center;
+}
+.footer .title {
+	font-size: .8em;
+	color: #A4A4A4;
+}
+.footer .title img {
+	vertical-align: middle;
+	margin-bottom: .75em
+}
+/* ISS BRAND COLOURS */
+.item .assertive {
+	color: #a30f2b !important;
+}
+.item .positive {
+	color: #67b8e7 !important;
+}
+.item .balanced {
+	color: #a0b100 !important;
+}
+.item .energized {
+	color: #f18500 !important;
+}
+.item .stable {
+	color: #002e51 !important;
+}
+.pull-right {
+	display: inline-flex;
+	float:right;	
+}
